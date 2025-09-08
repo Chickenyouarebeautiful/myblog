@@ -1,9 +1,16 @@
 ---
 title: "My First Post"
-date: 2025-09-08
-draft: true
 tags: ["Hugo", "Stack"]
 categories: ["Tutorial"]
+date: 2025-09-08T12:09:33+08:00
+image: 
+math: 
+license: 
+hidden: false
+comments: true
+draft: false
+---
+
 ---
 
 # 我的第一篇 Hugo 文章
@@ -14,5 +21,7 @@ categories: ["Tutorial"]
 - 支持图片
 - 支持代码块
 
-```python
+```cmd
 print("Hello Hugo")
+
+

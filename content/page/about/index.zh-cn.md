@@ -1,5 +1,5 @@
 ---
-title: 关于这个男人
+title: 关于
 menu:
     main: 
         weight: -90
@@ -9,5 +9,4 @@ menu:
 
 一个牛逼的入
 
-微信/Qq:315309910----
-tg:@qqivy
+

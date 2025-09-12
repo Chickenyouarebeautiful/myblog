@@ -1,0 +1,14 @@
+hugo new  "content/posts/NAME/"
+
+git add .
+
+git add "content/posts/NAME/"
+
+
+# git add "static/images/$POST_NAME/"
+
+
+git commit -m "发布新文章"
+
+
+git push origin main
